@@ -1,0 +1,2 @@
+2) Escriba un programa que procese un archivo de texto e informe la cantidad de caracteres 
+minúsculas, mayúsculas y dígitos que posee.

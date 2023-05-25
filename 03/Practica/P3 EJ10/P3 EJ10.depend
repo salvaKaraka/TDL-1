@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682011269 source:d:\.ingenieria en computacion\2023\taller de lenguajes 1\03\practica\p3 ej10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1684356938 source:g:\otros ordenadores\mi pc\.ingenieria en computacion\2023\taller de lenguajes 1\04\practica\p4 ej8\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_enlazada.h"
+
+1684357046 g:\otros ordenadores\mi pc\.ingenieria en computacion\2023\taller de lenguajes 1\04\practica\p4 ej8\lista_enlazada.h
+	<stdio.h>
+	<stdlib.h>
+
+1684435880 source:d:\.ingenieria en computacion\2023\taller de lenguajes 1\04\practica\p4 ej8\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_enlazada.h"
+
+1684357054 d:\.ingenieria en computacion\2023\taller de lenguajes 1\04\practica\p4 ej8\lista_enlazada.h
+	<stdio.h>
+	<stdlib.h>
+

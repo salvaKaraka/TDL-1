@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679585528 source:d:\.ingenieria en computacion\2023\taller de lenguajes 1\02\practica\p2 ej2\main.c
+	<stdio.h>
+	<stdlib.h>
+
