@@ -9,7 +9,7 @@ int main()
 {
 
     printf("Hello world!\n");
-while(1){
+
   #ifdef _WIN32
     system("cls");
   #else
@@ -18,6 +18,6 @@ while(1){
 
     printf("Hello world!\n");
 
-}
+
     return 0;
 }
