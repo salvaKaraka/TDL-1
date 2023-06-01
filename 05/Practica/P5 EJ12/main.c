@@ -68,7 +68,7 @@ int buscar(FILE* personas, Indice* ind, int dni, persona* p, int cantidad){
         if (ind[m].dni == dni) { 
             fseek(personas, ind[m].pos, SEEK_SET);
             fgets(linea, MAX, personas);
-            sscanf(linea, "%d;%d;%[^;];%[^;];%[^;];%[^;];%[^;];%[^\n]", &p->id, &p->dni, p->nombre, p->apellido, p->correo, p->ciudad, p->pais, p->trabajo);
+            sscanf(linea, "%d;%d;%[^;];%[^;];%[^;];%[^;];%[^;];%[^\n]", &p->id, &p->dni, p->nombre, p->apellido, p->trabajo, p->correo, p->ciudad, p->pais);
             return 1;
         } else if (ind[m].dni > dni) {
             j = m - 1;
